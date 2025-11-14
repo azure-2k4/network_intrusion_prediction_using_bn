@@ -31,13 +31,9 @@ NSL-KDD Data set for Network-based Intrusion Detection Systems. Available at: [h
 
 ## Repository
 ```
-|-- data/
-|   |-- NSL_KDD_Train.csv
-|   |-- NSL_KDD_Test.csv
-|
-|-- notebooks/
-|   |-- intrusion_prediction_model.ipynb
-|
+|-- NSL_KDD_Train.csv
+|-- NSL_KDD_Test.csv
+|-- intrusion_prediction_model.ipynb
 |-- README.md
 ```
 
